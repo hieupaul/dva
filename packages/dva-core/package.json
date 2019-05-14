@@ -1,6 +1,6 @@
 {
   "name": "pp-dva-core",
-  "version": "1.4.0",
+  "version": "1.4.0-beta",
   "description": "The core lightweight library for dva, based on redux and redux-saga.",
   "repository": {
     "type": "git",
